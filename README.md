@@ -9,7 +9,7 @@ Using the **vid.py** you can generate your own .h file to include in the sketch.
 
 It uses the OpenCV library to fit the video in the matrix.
 
-Using the file picker set to an arbitrary DIR, it might not work!
+Because i set the file picker to an specific DIR, it might not work!
 
 ### Available vids
 * Bad Apple
@@ -23,7 +23,7 @@ _You might need to install the library mentioned before_
 
 **Bad Apple** is alredy set inside, but if you want to change it, you can
 even generate a video by running the python script and pick a video inside your pc. 
-But be aware that arduno has not much memory (BA takes approx 60%)
+But be aware that arduno has not much memory (BadApple takes approx 60%)
 
 If you have generated your own video, you have to change the file in the section
 
